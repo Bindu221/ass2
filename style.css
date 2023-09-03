@@ -1,0 +1,14 @@
+.list{
+    border: 2px solid #000;
+  display: flex;
+  justify-content: center;
+  background-color: peachpuff;
+}
+ .ordered{ 
+    color: blueviolet;
+   
+}
+.unordered{
+   padding-left: 300px;
+  color: blueviolet;
+}
